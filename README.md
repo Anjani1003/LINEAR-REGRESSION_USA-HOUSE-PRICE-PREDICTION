@@ -1,0 +1,2 @@
+# LINEAR-REGRESSION_USA-HOUSE-PRICE-PREDICTION
+Use linear regression model to predict the house price in USA using old USA house pricing data. Try to develop model using Linear regressor and ordinary least square method. Check for under fitting and over fitting of the model. Also showed the L1 and L2 regularization techniques to minimise under and over fitting problem. In the end saved the model for future prediction.
